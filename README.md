@@ -29,6 +29,9 @@ This project implements a Polynomial Abstract Data Type (ADT) using Linked Lists
 Each line in the input file represents a polynomial.
 
 ### Example:
+            3x^5-2x^3+x^2+4
+            -x^2-3x^4
+            8x^2-9
 
 ---
 
